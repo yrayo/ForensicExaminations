@@ -3,5 +3,5 @@
 ## Forensic examination: To view, go to > https://github.com/yrayo/ForensicExaminations/tree/main
 - Generated a 12-page report of 1 forensic examination of a suspicious USB device, producing a 13-page analysis and an Autopsy-generated report. Ensured proper chain of custody, created disk images, hashing, and analyzed data to identify illegal content of ‘cat’ files.
 
-## Software validation projects: To view, go to > https://github.com/yrayo/ForensicExaminations/tree/main
+## Software validation projects: To view, go to > Rayo Software Validation Report PDF Format.pdf
 - Generated a detailed 29-page report validating MiniTool Power Data Recovery software by successfully recovering three deleted files from a USB device. Compared results against FTK Imager as a baseline and documented findings with step-by-step instructions and screenshots.
