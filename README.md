@@ -1,4 +1,4 @@
-# Cybersecurity Projects
+# Projects
 
 ## Forensic examination
 ### To view, go to > ForensicExaminations/Rayo USB Examination and Report.docx > Download raw file
